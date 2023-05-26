@@ -1,6 +1,6 @@
 require('dotenv').config();
 const port = process.env.PORT || 3000;
-const apikey = process.env.PEXELS_API_KEY;
+const apikey = 'l9PluTI4z7UnJWgh6qdrQuI5xqcBm57b8itOnbd25pmz0iWLtgcVk6Az';
 const express = require('express');
 const http = require('http');
 const cors = require('cors');
